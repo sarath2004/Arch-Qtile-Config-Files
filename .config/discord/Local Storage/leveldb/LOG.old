@@ -1,0 +1,30 @@
+2022/06/28-13:04:58.504 3df Reusing MANIFEST /home/sarath/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/28-13:04:58.504 3df Recovering log #62
+2022/06/28-13:04:58.505 3df Reusing old log /home/sarath/.config/discord/Local Storage/leveldb/000062.log 
+2022/06/28-16:02:30.505 3ea7 Level-0 table #67: started
+2022/06/28-16:02:30.512 3ea7 Level-0 table #67: 20898 bytes OK
+2022/06/28-16:02:30.516 3ea7 Delete type=0 #62
+2022/06/28-16:08:24.773 3ea7 Level-0 table #69: started
+2022/06/28-16:08:24.779 3ea7 Level-0 table #69: 21453 bytes OK
+2022/06/28-16:08:24.783 3ea7 Delete type=0 #66
+2022/06/28-16:11:24.724 3f15 Level-0 table #71: started
+2022/06/28-16:11:24.730 3f15 Level-0 table #71: 21808 bytes OK
+2022/06/28-16:11:24.734 3f15 Delete type=0 #68
+2022/06/28-16:36:57.865 4796 Level-0 table #73: started
+2022/06/28-16:36:57.875 4796 Level-0 table #73: 17464 bytes OK
+2022/06/28-16:36:57.881 4796 Delete type=0 #70
+2022/06/28-16:36:57.882 4796 Compacting 4@0 + 1@1 files
+2022/06/28-16:36:57.893 4796 Generated table #74@0: 94 keys, 981786 bytes
+2022/06/28-16:36:57.893 4796 Compacted 4@0 + 1@1 files => 981786 bytes
+2022/06/28-16:36:57.897 4796 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/28-16:36:57.897 4796 Delete type=2 #69
+2022/06/28-16:36:57.897 4796 Delete type=2 #67
+2022/06/28-16:36:57.897 4796 Delete type=2 #73
+2022/06/28-16:36:57.897 4796 Delete type=2 #64
+2022/06/28-16:36:57.897 4796 Delete type=2 #71
+2022/06/28-17:14:40.859 4a4c Level-0 table #76: started
+2022/06/28-17:14:40.865 4a4c Level-0 table #76: 16329 bytes OK
+2022/06/28-17:14:40.869 4a4c Delete type=0 #72
+2022/06/28-17:42:21.431 4a4c Level-0 table #78: started
+2022/06/28-17:42:21.436 4a4c Level-0 table #78: 18701 bytes OK
+2022/06/28-17:42:21.440 4a4c Delete type=0 #75

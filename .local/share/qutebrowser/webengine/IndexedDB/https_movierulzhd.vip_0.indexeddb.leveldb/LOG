@@ -1,0 +1,8 @@
+2022/06/24-13:51:16.717 3b8 Reusing MANIFEST /home/sarath/.local/share/qutebrowser/webengine/IndexedDB/https_movierulzhd.vip_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/24-13:51:16.717 3b8 Recovering log #11
+2022/06/24-13:51:16.717 3b8 Reusing old log /home/sarath/.local/share/qutebrowser/webengine/IndexedDB/https_movierulzhd.vip_0.indexeddb.leveldb/000011.log 
+2022/06/24-13:51:18.982 44c Level-0 table #16: started
+2022/06/24-13:51:18.982 44c Level-0 table #16: 0 bytes OK
+2022/06/24-13:51:18.989 44c Delete type=0 #11
+2022/06/24-13:51:18.989 44c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/24-13:51:18.989 44c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

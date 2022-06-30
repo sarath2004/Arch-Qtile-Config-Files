@@ -1,0 +1,33 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAGAAAB38AAAQ3AAAAAAAAABgAAAd/AAAENwAAAAAAAAAAB4AAAAAAAAAA
+    GAAAB38AAAQ3
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2022-06-26T14:08:58'
+      pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - last_visited: '2022-06-26T14:09:24'
+      pinned: false
+      title: qutebrowser custom scripts at DuckDuckGo
+      url: https://duckduckgo.com/?q=qutebrowser+custom+scripts&hps=1&ia=web
+    - last_visited: '2022-06-26T14:09:25'
+      pinned: false
+      title: qutebrowser | qutebrowser
+      url: https://qutebrowser.com/
+    - active: true
+      last_visited: '2022-06-26T14:09:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser help
+      url: qute://help/index.html
+      zoom: 1.0
+    - last_visited: '2022-06-26T14:09:52'
+      pinned: false
+      title: Commands
+      url: qute://help/commands.html

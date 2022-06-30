@@ -1,0 +1,9 @@
+audio.play_bitrate_non_metered_migrated=true
+audio.sync_bitrate_enumeration=3
+audio.allow_downgrade=false
+audio.automix=false
+audio.play_bitrate_enumeration=3
+ui.minimize_to_tray=true
+audio.play_bitrate_non_metered_enumeration=3
+audio.normalize_v2=false
+app.player.volume=43690

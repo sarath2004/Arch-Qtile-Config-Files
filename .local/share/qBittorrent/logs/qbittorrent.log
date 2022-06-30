@@ -1,0 +1,177 @@
+(N) 2022-06-24T14:09:36 - qBittorrent v4.4.3.1 started
+(N) 2022-06-24T14:09:36 - Using config directory: /home/sarath/.config/qBittorrent
+(I) 2022-06-24T14:09:41 - Trying to listen on: 0.0.0.0:43119,[::]:43119
+(N) 2022-06-24T14:09:41 - Peer ID: -qB4431-
+(N) 2022-06-24T14:09:41 - HTTP User-Agent is 'qBittorrent/4.4.3.1'
+(I) 2022-06-24T14:09:41 - DHT support [ON]
+(I) 2022-06-24T14:09:41 - Local Peer Discovery support [ON]
+(I) 2022-06-24T14:09:41 - PeX support [ON]
+(I) 2022-06-24T14:09:41 - Anonymous mode [OFF]
+(I) 2022-06-24T14:09:41 - Encryption support [ON]
+(I) 2022-06-24T14:09:41 - UPnP / NAT-PMP support [ON]
+(W) 2022-06-24T14:09:41 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: 127.0.0.1, port: TCP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: 127.0.0.1, port: UTP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: ::1, port: TCP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: ::1, port: UTP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:09:41 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:09:41 - Detected external IP: 78.101.151.243
+(I) 2022-06-24T14:09:41 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:09:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(I) 2022-06-24T14:09:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jun 1 03:25:04 2022.
+(I) 2022-06-24T14:09:42 - Successfully updated IP geolocation database.
+(N) 2022-06-24T14:10:03 - 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv' added to download list.
+(N) 2022-06-24T14:26:08 - qBittorrent v4.4.3.1 started
+(N) 2022-06-24T14:26:08 - Using config directory: /home/sarath/.config/qBittorrent
+(N) 2022-06-24T14:26:08 - Tracker 'udp://9.rarbg.me:2850/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://9.rarbg.to:2970/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://tracker.tiny-vps.com:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'http://t.nyaatracker.com:80/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://movies.zsw.ca:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://ipv4.tracker.harry.lu:80/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://fe.dealclub.de:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://explodie.org:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://bt2.archive.org:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://bt1.archive.org:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://vibe.sleepyinternetfun.xyz:1738/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://tsundere.pw:6969/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://tracker4.itzmx.com:2710/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(N) 2022-06-24T14:26:08 - Tracker 'udp://tracker2.dler.org:80/announce' was added to torrent 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv'
+(C) 2022-06-24T14:44:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T14:44:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T14:44:56 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:44:56 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:44:56 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:44:56 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:44:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:44:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T14:47:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T14:47:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T14:47:09 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:47:09 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:47:09 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:47:09 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:47:09 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:47:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T14:48:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T14:48:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T14:48:35 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:48:35 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:48:35 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:48:35 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:48:36 - Detected external IP: 78.101.151.243
+(I) 2022-06-24T14:48:36 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:48:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(N) 2022-06-24T14:50:57 - qBittorrent v4.4.3.1 started
+(N) 2022-06-24T14:50:57 - Using config directory: /home/sarath/.config/qBittorrent
+(C) 2022-06-24T14:54:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T14:54:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T14:54:35 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:54:35 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:54:35 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:54:35 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:54:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:54:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T14:54:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T14:54:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T14:55:49 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T14:55:49 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T14:55:49 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T14:55:49 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T14:55:49 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T14:55:50 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T15:38:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T15:38:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T15:38:50 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T15:38:50 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T15:38:50 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T15:38:50 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T15:38:51 - Detected external IP: 78.101.151.243
+(I) 2022-06-24T15:38:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T15:38:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T15:43:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T15:43:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-24T15:43:49 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-24T15:43:49 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-24T15:43:49 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-24T15:43:49 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-24T15:43:50 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-24T15:43:50 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(C) 2022-06-24T19:01:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T19:01:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-24T19:01:27 - Failed to listen on IP: 192.168.100.6, port: TCP/43119. Reason: Address already in use
+(C) 2022-06-24T19:01:27 - Failed to listen on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119. Reason: Address already in use
+(N) 2022-06-26T15:48:09 - qBittorrent v4.4.3.1 started
+(N) 2022-06-26T15:48:09 - Using config directory: /home/sarath/.config/qBittorrent
+(I) 2022-06-26T15:48:09 - Trying to listen on: 0.0.0.0:43119,[::]:43119
+(N) 2022-06-26T15:48:09 - Peer ID: -qB4431-
+(N) 2022-06-26T15:48:09 - HTTP User-Agent is 'qBittorrent/4.4.3.1'
+(I) 2022-06-26T15:48:09 - DHT support [ON]
+(I) 2022-06-26T15:48:09 - Local Peer Discovery support [ON]
+(I) 2022-06-26T15:48:09 - PeX support [ON]
+(I) 2022-06-26T15:48:09 - Anonymous mode [OFF]
+(I) 2022-06-26T15:48:09 - Encryption support [ON]
+(I) 2022-06-26T15:48:09 - UPnP / NAT-PMP support [ON]
+(I) 2022-06-26T15:48:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jun 1 03:25:04 2022.
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: 127.0.0.1, port: TCP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: 127.0.0.1, port: UTP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: ::1, port: TCP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: ::1, port: UTP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-26T15:48:09 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(N) 2022-06-26T15:48:09 - 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv' restored.
+(I) 2022-06-26T15:48:09 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-26T15:48:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(N) 2022-06-26T15:48:36 - 'HLCS_Linux.tar.xz' added to download list.
+(N) 2022-06-26T15:48:51 - 'HLCS_Linux.tar.xz' was removed from the transfer list and hard disk.
+(N) 2022-06-26T15:57:51 - qBittorrent v4.4.3.1 started
+(N) 2022-06-26T15:57:51 - Using config directory: /home/sarath/.config/qBittorrent
+(C) 2022-06-26T16:05:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-06-26T16:05:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-06-26T16:05:54 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-26T16:05:54 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-26T16:05:54 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-26T16:05:54 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(I) 2022-06-26T16:05:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-26T16:05:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(N) 2022-06-26T16:06:07 - qBittorrent v4.4.3.1 started
+(N) 2022-06-26T16:06:07 - Using config directory: /home/sarath/.config/qBittorrent
+(N) 2022-06-30T10:15:28 - qBittorrent v4.4.3.1 started
+(N) 2022-06-30T10:15:28 - Using config directory: /home/sarath/.config/qBittorrent
+(I) 2022-06-30T10:15:28 - Trying to listen on: 0.0.0.0:43119,[::]:43119
+(N) 2022-06-30T10:15:28 - Peer ID: -qB4431-
+(N) 2022-06-30T10:15:28 - HTTP User-Agent is 'qBittorrent/4.4.3.1'
+(I) 2022-06-30T10:15:28 - DHT support [ON]
+(I) 2022-06-30T10:15:28 - Local Peer Discovery support [ON]
+(I) 2022-06-30T10:15:28 - PeX support [ON]
+(I) 2022-06-30T10:15:28 - Anonymous mode [OFF]
+(I) 2022-06-30T10:15:28 - Encryption support [ON]
+(I) 2022-06-30T10:15:28 - UPnP / NAT-PMP support [ON]
+(I) 2022-06-30T10:15:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jun 1 03:25:04 2022.
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: 127.0.0.1, port: TCP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: 127.0.0.1, port: UTP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: 192.168.100.6, port: TCP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: 192.168.100.6, port: UTP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: ::1, port: TCP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: ::1, port: UTP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: TCP/43119
+(I) 2022-06-30T10:15:28 - Successfully listening on IP: fe80::ae12:3ff:fe78:704e%wlan0, port: UTP/43119
+(N) 2022-06-30T10:15:28 - 'www.7MovieRulz.at - Ashoka Vanamlo Arjuna Kalyanam (2021) 1080p Telugu TRUE WEB-DL - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 2.8GB.mkv' restored.
+(I) 2022-06-30T10:15:28 - Detected external IP: 78.101.151.243
+(I) 2022-06-30T10:15:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: TCP/43119
+(I) 2022-06-30T10:15:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.100.6 external port: UDP/43119
+(N) 2022-06-30T10:16:18 - 'Portal [x86] [Multi] [Native]' added to download list.
+(N) 2022-06-30T10:22:24 - qBittorrent v4.4.3.1 started
+(N) 2022-06-30T10:22:24 - Using config directory: /home/sarath/.config/qBittorrent
+(N) 2022-06-30T10:22:53 - 'Portal [x86] [Multi] [Native]' was removed from the transfer list and hard disk.
+(N) 2022-06-30T10:24:36 - 'Metro 2033 Redux' added to download list.
+(N) 2022-06-30T10:25:55 - 'Metro 2033 Redux' was removed from the transfer list and hard disk.
+(I) 2022-06-30T10:26:00 - UPnP / NAT-PMP support [OFF]

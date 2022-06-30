@@ -1,0 +1,36 @@
+CopyQ Warning [2022-06-25 18:40:40.120] <Server-24112>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2022-06-25 18:40:51.511] <Server-24190>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2022-06-26 11:36:05.627] <monitorClipboard-987>: ELAPSED 10002 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:36:05.633] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:36:20.692] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:36:20.696] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:36:26.881] <Server-9026>: CopyQ server is already running.
+CopyQ Warning [2022-06-26 11:36:35.861] <monitorClipboard-987>: ELAPSED 10002 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:36:35.868] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:36:51.211] <monitorClipboard-987>: ELAPSED 10002 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:36:51.214] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:37:23.584] <Server-9070>: CopyQ server is already running.
+CopyQ Warning [2022-06-26 11:37:27.841] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:37:27.846] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:37:42.854] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:37:42.860] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:37:57.918] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:37:57.924] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:38:13.076] <monitorClipboard-987>: ELAPSED 10002 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:38:13.082] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:38:28.456] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:38:28.463] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:38:44.004] <monitorClipboard-987>: ELAPSED 10002 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:38:44.014] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Note [2022-06-26 11:43:09.365] <Server-860>: Command “copyq onClipboardChanged”
+CopyQ Note [2022-06-26 11:43:09.365] <Server-860>:    Error: execve: No such file or directory
+CopyQ Note [2022-06-26 11:43:09.365] <Server-860>:    1. copyq onClipboardChanged
+CopyQ Warning [2022-06-26 11:49:27.950] <monitorClipboard-987>: ELAPSED 10001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:49:27.956] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Note [2022-06-26 11:49:34.968] <Server-860>: Command “copyq onExit”
+CopyQ Note [2022-06-26 11:49:34.968] <Server-860>:    Error: execve: No such file or directory
+CopyQ Note [2022-06-26 11:49:34.968] <Server-860>:    1. copyq onExit
+CopyQ Warning [2022-06-26 11:49:34.988] <Server-860>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2022-06-26 11:49:37.963] <monitorClipboard-987>: ELAPSED 5001 ms acessing "hasText"
+CopyQ Warning [2022-06-26 11:49:37.970] <monitorClipboard-987>: Clipboard data expired, refusing to access old data
+CopyQ Warning [2022-06-26 11:49:37.975] <monitorClipboard-987>: [default] QtWarning: The X11 connection broke: I/O error (code 1)

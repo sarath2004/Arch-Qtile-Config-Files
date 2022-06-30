@@ -1,0 +1,61 @@
+# Increase volume
+"pactl set-sink-volume @DEFAULT_SINK@ +5%"
+   XF86AudioRaiseVolume
+
+# Decrease volume
+"pactl set-sink-volume @DEFAULT_SINK@ -5%"
+   XF86AudioLowerVolume
+
+# Mute volume
+"pactl set-sink-mute @DEFAULT_SINK@ toggle"
+   XF86AudioMute
+
+# Mute microphone
+"pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+   XF86AudioMicMute
+
+# Increase brightness
+"light -A 5"
+   XF86MonBrightnessUp
+
+# Decrese brightness
+"light -U 5"
+   XF86MonBrightnessDown
+
+# Play Track
+"playerctl --player=spotify,%any play-pause"
+   m:0x0 + c:208
+   XF86AudioPlay
+
+# Pause Track
+"playerctl --player=spotify,%any play-pause"
+   m:0x0 + c:209
+   XF86AudioPause
+
+# Pause/Play with keyboard media keys
+"playerctl --player=spotify,%any play-pause"
+   m:0x0 + c:172
+   XF86AudioPlay
+
+# Next Track
+"playerctl --player=spotify,%any next"
+   XF86AudioNext
+
+# Previous Track
+"playerctl --player=spotify,%any previous"
+   XF86AudioPrev
+
+# Vervebuds 100 connect
+"bluetoothctl connect 10:78:3C:59:BD:88"
+    m:0x50 + c:49
+    Mod2+Mod4 + grave
+
+# Screenshot Desktop
+"flameshot full --clipboard --path ~/Pictures/Screenshots"
+    m:0x10 + c:107
+    Mod2 + Print
+
+# Screenshot Area/Region
+"flameshot gui --clipboard --path ~/Pictures/Screenshots"
+    m:0x14 + c:107
+    Control+Mod2 + Print

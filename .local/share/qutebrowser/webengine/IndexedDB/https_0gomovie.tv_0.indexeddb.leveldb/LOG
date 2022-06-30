@@ -1,0 +1,5 @@
+2022/06/24-13:55:18.601 4cb Reusing MANIFEST /home/sarath/.local/share/qutebrowser/webengine/IndexedDB/https_0gomovie.tv_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/24-13:55:26.908 44c Level-0 table #5: started
+2022/06/24-13:55:26.914 44c Level-0 table #5: 1455 bytes OK
+2022/06/24-13:55:26.918 44c Delete type=0 #3
+2022/06/24-13:55:26.918 44c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

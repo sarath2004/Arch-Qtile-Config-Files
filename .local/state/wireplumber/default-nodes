@@ -1,0 +1,2 @@
+[default-nodes]
+default.configured.audio.sink=bluez_output.10_78_3C_59_BD_88.a2dp-sink

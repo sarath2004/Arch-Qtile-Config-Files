@@ -1,0 +1,15 @@
+2022/06/24-13:50:33.559 3f5 Reusing MANIFEST /home/sarath/.local/share/qutebrowser/webengine/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/24-13:50:33.559 3f5 Recovering log #22
+2022/06/24-13:50:33.565 3f5 Reusing old log /home/sarath/.local/share/qutebrowser/webengine/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2022/06/24-13:51:07.442 3b8 Level-0 table #27: started
+2022/06/24-13:51:07.456 3b8 Level-0 table #27: 611974 bytes OK
+2022/06/24-13:51:07.460 3b8 Delete type=0 #22
+2022/06/24-13:51:07.460 3b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/24-13:51:07.460 3b8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x01\x1f\x03\xc3\xb9\x12U\x88\x8exB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 5577 : 1
+2022/06/24-13:51:07.460 3b8 Compacting 1@1 + 1@2 files
+2022/06/24-13:51:07.466 3b8 Generated table #28@1: 339 keys, 36923 bytes
+2022/06/24-13:51:07.466 3b8 Compacted 1@1 + 1@2 files => 36923 bytes
+2022/06/24-13:51:07.470 3b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/24-13:51:07.470 3b8 Delete type=2 #27
+2022/06/24-13:51:07.470 3b8 Delete type=2 #24
+2022/06/24-13:51:07.470 3b8 Manual compaction at level-1 from '\x00\x0e\x01\x1f\x03\xc3\xb9\x12U\x88\x8exB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 5577 : 1 .. (end); will stop at (end)

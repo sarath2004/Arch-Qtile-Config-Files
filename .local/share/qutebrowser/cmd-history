@@ -1,0 +1,52 @@
+:help
+:open -t 
+:open 
+:help
+:O
+:open -t 
+:help
+:open google.com
+:help
+:open -t 
+:open apple.com
+:adblock-update 
+:open https://youtube.com
+:open how to
+:adb
+:adblock-update 
+:open youtube.com
+:open -t kitty transparency
+:open google.com
+:history
+:open freedrivemovies.com
+:open freedrivemovie.com
+:open https://www.google.com/
+:open pacman -S gst-plugins-{base,good,bad,ugly} gst-libav
+:open https://movierulzhd.vip/movies/ashoka-vanamlo-arjuna-kalyanam-telugu/
+:open 0gomovies.tio
+:open 0gomovies.to
+:quit
+:open wallhaven.com
+:open move qtile bar to top
+:open qtile floating
+:search
+:search Press
+:search screen
+:search
+:search bar
+/bar
+:tab-clone
+:open reddit qtile configuration
+:open libqtile.bar 
+:open libqtile.bar g
+:open fast.com
+:open 61 mbps to mBps
+:open flameshot copy to clipboard not working arch
+:undo --window
+:history
+:open failed to open file for writing maim
+:history
+:history-clear
+:home
+:adblock-update 
+:help

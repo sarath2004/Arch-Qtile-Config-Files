@@ -1,0 +1,8 @@
+nitrogen --restore &
+picom &
+pa-notify &
+xbindkeys &
+dunst &
+flameshot &
+discord &
+exec qtile start
